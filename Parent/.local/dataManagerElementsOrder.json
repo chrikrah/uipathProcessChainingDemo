@@ -1,0 +1,45 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "StartJob.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "currentJobInfo&Sequence_1",
+        "retrievedJobs&Sequence_1",
+        "processIdChild1&Sequence_1",
+        "jobIdChild1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "RunParallelProcessTest.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "currentJobInfo&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "InvokeProcessTest.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "currentJobInfo&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Parent",
+  "projectId": "76bbabc9-f1c9-49b5-b1b7-b646f18274c2",
+  "description": "Blank Process",
+  "main": "InvokeProcessTest.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[23.10.5]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.10.4.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": true,
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "InvokeProcessTest.xaml",
+      "uniqueId": "5af1c58f-6337-40e1-b13b-002af4665516",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "RunParallelProcessTest.xaml",
+      "uniqueId": "8179ad16-20f6-403f-9a2e-cfa2169403fe",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "StartJob.xaml",
+      "uniqueId": "be9612db-22eb-4171-bda1-656a987a0fb6",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

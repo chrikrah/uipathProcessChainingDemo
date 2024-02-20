@@ -1,0 +1,71 @@
+{
+  "name": "Children",
+  "projectId": "7248a49e-c7ef-4b1b-bb60-743db40cd156",
+  "description": "Blank Process",
+  "main": "Child1.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[23.10.5]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.10.4.0",
+  "projectVersion": "1.0.6",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": false,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": true,
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Child1.xaml",
+      "uniqueId": "b3d03515-2090-4d8e-9163-31ab4f564c52",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Child2.xaml",
+      "uniqueId": "70bbf14e-a341-46c9-9ac7-1bd0ad3e3d41",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Child3.xaml",
+      "uniqueId": "0e100498-50c6-4d2a-84aa-0b9cdd19338b",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
