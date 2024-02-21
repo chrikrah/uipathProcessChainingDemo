@@ -36,7 +36,8 @@ run with Studio 2023.10.4 and Automation Cloud
 ![output in Orchestrator for RunParallelProcess](RunParallelProcessTestOutput2.png)
 ## StartJob
 ![workflow for StartJob](StartJobTestWorkflow.png)
-![output for StartJob](StartJobTestOutput.png)
+![output in Studio for StartJob](StartJobTestOutput.png)
+![output in Orchestrator for StartJob](StartJobTestOutput2.png)
 
 # Callouts about the demo setup
 - The child project is configured as background process (project settings in studio > starts in background), otherwise you will get an error when trying to run them as parallel processes on the same machine in the same thread (e.g. without PiP)
