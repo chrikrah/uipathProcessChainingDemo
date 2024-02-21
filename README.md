@@ -3,6 +3,7 @@ There are two Studio projects, the "Parent" project and the "Child" project. To 
 # Installing the demo
 
 To get the demo running follow these (high-level) steps below:
+
 TODO make the steps more granular and link to documentation
 
 1. Clone the project from Github (you can also do this with the built-in Studio Git functionality).
