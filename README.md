@@ -25,6 +25,8 @@ UiPath documentation for the three activities:
 - https://docs.uipath.com/activities/other/latest/workflow/start-job
 
 # Screenshots
+run with Studio 2023.10.4 and Automation Cloud
+
 ## InvokeProcess
 ![workflow for InvokeProcess](InvokeProcessTestWorkflow.png)
 ![output for InvokeProcess](InvokeProcessTestOutput.png)
